@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 bu bir test react  projesidir.
+
+test  amaçlı yazmaa
+2. defa  gönderim deneme
